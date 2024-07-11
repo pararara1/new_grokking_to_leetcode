@@ -103,55 +103,55 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Two Heaps
 
-- [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
+- [X] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
 - [X] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
 - [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-- [X] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)
+- [X] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
 
 ## K-way merge
 
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [X] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
-- [ ] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
+- [X] [Kth Smallest Number in M Sorted Lists](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)?
 
-- [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+- [X] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [X] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+- [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
-- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [X] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ## Top K Elements
 
-- [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [X] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
-- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+- [X] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 
-- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [X] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [X] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [X] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+- [X] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
-- [ ] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+- [X] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 
 ## Modified Binary Search
 
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [X] [Binary Search](https://leetcode.com/problems/binary-search/)
 
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-- [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [X] [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
-- [ ] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+- [X] [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
 
-- [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+- [X] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
 - [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
