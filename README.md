@@ -173,13 +173,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Jump Game I](https://leetcode.com/problems/jump-game/)
 
-- [ ] [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
+- [X] [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
-- [ ] [Gas Stations](https://leetcode.com/problems/gas-station/)
+- [X] [Gas Stations](https://leetcode.com/problems/gas-station/)
 
 - [ ] [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
-- [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+- [X] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 ## Backtracking
 
