@@ -153,25 +153,25 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
 
-- [ ] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [X] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 
-- [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [X] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
 ## Subsets
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [X] [Subsets](https://leetcode.com/problems/subsets/)
 
-- [ ] [Permutations](https://leetcode.com/problems/permutations/)
+- [X] [Permutations](https://leetcode.com/problems/permutations/)
 
-- [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [X] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 
-- [ ] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [X] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 
-- [ ] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
+- [X] [Find K-Sum Subsets](https://leetcode.com/problems/subarray-sum-equals-k/)?
 
 ## Greedy Techniques
 
-- [ ] [Jump Game I](https://leetcode.com/problems/jump-game/)
+- [X] [Jump Game I](https://leetcode.com/problems/jump-game/)
 
 - [ ] [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
 
