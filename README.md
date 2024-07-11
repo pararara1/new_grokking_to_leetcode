@@ -109,7 +109,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-- [X] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
+- [X] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)
 
 ## K-way merge
 
