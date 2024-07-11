@@ -97,19 +97,19 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
 
-- [ ] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
+- [X] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
 
-- [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [X] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
 ## Two Heaps
 
 - [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+- [X] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
 
-- [ ] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [X] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-- [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
+- [X] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
 
 ## K-way merge
 
