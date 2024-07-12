@@ -177,15 +177,15 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Gas Stations](https://leetcode.com/problems/gas-station/)
 
-- [ ] [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
+- [X] [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
 - [X] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 ## Backtracking
 
-- [ ] [N-Queens](https://leetcode.com/problems/n-queens/)
+- [X] [N-Queens](https://leetcode.com/problems/n-queens/)
 
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [X] [Word Search](https://leetcode.com/problems/word-search/)
 
 - [ ] [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
