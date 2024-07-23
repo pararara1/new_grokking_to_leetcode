@@ -203,17 +203,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 
-- [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [X] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
-- [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [X] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [X] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 
-- [ ] [01 Matrix](https://leetcode.com/problems/01-matrix/)
+- [X] [01 Matrix](https://leetcode.com/problems/01-matrix/)
 
-- [ ] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [X] [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 
-- [ ] [Word Break](https://leetcode.com/problems/word-break/)
+- [X] [Word Break](https://leetcode.com/problems/word-break/)
 
 - [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
