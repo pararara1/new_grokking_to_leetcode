@@ -195,13 +195,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 
-- [ ] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+- [X] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
 
 ## Dynamic Programming
 
-- [ ] [0/1 Knapsack]()?
+- [X] [0/1 Knapsack]()?
 
-- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [X] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 - [ ] [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
