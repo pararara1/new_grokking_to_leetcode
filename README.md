@@ -245,9 +245,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Topological Sort
 
-- [ ] [Compilation Order]()?
+- [X] [Compilation Order]()?
 
-- [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+- [X] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
 
 - [ ] [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
