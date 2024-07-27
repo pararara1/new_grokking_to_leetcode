@@ -353,7 +353,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Hash Maps
 
-- [ ] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
+- [X] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
 
 - [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 
