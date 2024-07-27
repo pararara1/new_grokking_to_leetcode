@@ -275,7 +275,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
-- [ ] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
+- [X] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 
 - [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
