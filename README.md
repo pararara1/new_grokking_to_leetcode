@@ -349,7 +349,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Word Search II](https://leetcode.com/problems/word-search-ii/)
 
-- [ ] [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+- [X] [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
 
 ## Hash Maps
 
