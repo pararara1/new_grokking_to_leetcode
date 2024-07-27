@@ -277,69 +277,69 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
 
-- [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- [X] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [X] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Graphs
 
-- [ ] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+- [X] [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
-- [ ] [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
+- [X] [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)
 
-- [ ] [Clone Graph](https://leetcode.com/problems/clone-graph)
+- [X] [Clone Graph](https://leetcode.com/problems/clone-graph)
 
-- [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
+- [X] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)
 
-- [ ] [Bus Routes](https://leetcode.com/problems/bus-routes/)
+- [X] [Bus Routes](https://leetcode.com/problems/bus-routes/)
 
 ## Tree Depth First Search
 
-- [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+- [X] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
 
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
-- [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+- [X] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
 
-- [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [X] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [X] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-- [ ] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
+- [X] [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)
 
-- [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
+- [X] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)
 
-- [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [X] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
-- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+- [X] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 
-- [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+- [X] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
 
-- [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [X] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-- [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
+- [X] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 
 ## Tree Breadth First Search
 
-- [ ] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [X] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
-- [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [X] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
-- [ ] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+- [X] [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
 
-- [ ] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+- [X] [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
 
-- [ ] [Word Ladder](https://leetcode.com/problems/word-ladder)
+- [X] [Word Ladder](https://leetcode.com/problems/word-ladder)
 
-- [ ] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+- [X] [Connect All Siblings of a Binary Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 
 ## Trie
 
-- [ ] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [X] [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 - [ ] [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)
 
