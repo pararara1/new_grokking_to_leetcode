@@ -355,11 +355,11 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Design Hashmap](https://leetcode.com/problems/design-hashmap/)
 
-- [ ] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+- [X] [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
 
-- [ ] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+- [X] [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
-- [ ] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
+- [X] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
 - [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
