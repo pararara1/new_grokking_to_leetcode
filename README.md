@@ -361,33 +361,33 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Next Greater Element](https://leetcode.com/problems/next-greater-element-i/)
 
-- [ ] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+- [X] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 
-- [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+- [X] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
 ## Knowing What to Track
 
-- [ ] [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
+- [X] [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 
-- [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
+- [X] [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 
-- [ ] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
+- [X] [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)
 
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [X] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 
-- [ ] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+- [X] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
 
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [X] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
-- [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [X] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
-- [ ] [Ransom Note](https://leetcode.com/problems/ransom-note/)
+- [X] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 
 ## Union Find
 
-- [ ] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+- [X] [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 - [ ] [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column)
 
