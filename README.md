@@ -393,7 +393,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)
 
-- [ ] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
+- [X] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
 - [ ] [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
 
