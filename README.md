@@ -395,9 +395,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)
 
-- [ ] [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+- [X] [Regions Cut by Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
 
-- [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge)
+- [X] [Accounts Merge](https://leetcode.com/problems/accounts-merge)
 
 - [ ] [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
 
