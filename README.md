@@ -399,7 +399,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Accounts Merge](https://leetcode.com/problems/accounts-merge)
 
-- [ ] [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
+- [X] [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
 
 - [ ] [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
