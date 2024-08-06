@@ -405,17 +405,17 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Custom Data Structures
 
-- [ ] [Snapshot Array](https://leetcode.com/problems/snapshot-array/)
+- [X] [Snapshot Array](https://leetcode.com/problems/snapshot-array/)
 
-- [ ] [Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+- [X] [Time-Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 
-- [ ] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
+- [X] [Implement LRU Cache](https://leetcode.com/problems/lru-cache/)
 
-- [ ] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+- [X] [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 
-- [ ] [Min Stack](https://leetcode.com/problems/min-stack/)
+- [X] [Min Stack](https://leetcode.com/problems/min-stack/)
 
-- [ ] [LFU Cache](https://leetcode.com/problems/lfu-cache/)
+- [X] [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 
 ## Bitwise Manipulation
 
