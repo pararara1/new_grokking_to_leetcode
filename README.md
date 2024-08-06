@@ -401,7 +401,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
 
-- [ ] [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+- [X] [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 
 ## Custom Data Structures
 
