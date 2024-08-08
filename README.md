@@ -427,9 +427,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [X] [Single Number](https://leetcode.com/problems/single-number/)
 
-- [ ] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
+- [X] [Two Single Numbers](https://leetcode.com/problems/single-number-iii/)
 
-- [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [X] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 ## Challenge Yourself
 
